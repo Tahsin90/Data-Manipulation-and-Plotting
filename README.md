@@ -1,2 +1,1 @@
-ChatGPT said:
 This project implements K-Means and K-Nearest Neighbors (KNN) algorithms for clustering and classification tasks, utilizing NumPy and Pandas for data manipulation. It processes datasets, applies clustering to segment data, and uses KNN for classification based on nearest neighbors. Visualizations are created with Matplotlib to display clustering results and decision boundaries, helping to analyze and interpret the data effectively.
